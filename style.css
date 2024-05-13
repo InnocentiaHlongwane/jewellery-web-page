@@ -1,7 +1,11 @@
 body {
+
     background: linear-gradient(135deg, #fdfedf 0% #e2d1c3 100%);
     width: 50%;
     margin: 60px auto;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 15px 60px;
 }
 
 h1,h2 {
